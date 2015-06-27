@@ -1,12 +1,7 @@
 <?php
-namespace Elboletaire\Watimage;
-
-use Exception;
-
 /**
  *
  * @author Òscar Casajuana Alonso <elboletaire@underave.net>
- * @version 1.0
  * @link https://github.com/elboletaire/Watimage
  *
  * This program is free software; you can redistribute it and/or modify
